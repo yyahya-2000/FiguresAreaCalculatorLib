@@ -1,0 +1,6 @@
+G:\WORK TESTING\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.dll
+G:\WORK TESTING\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+G:\WORK TESTING\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csprojAssemblyReference.cache
+G:\WORK TESTING\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+G:\WORK TESTING\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.dll
+G:\WORK TESTING\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
